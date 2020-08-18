@@ -1,2 +1,2 @@
 # spring-security
-Simple Api using Spring Security
+Simple API using Spring Security,h2, Lombok and Junit
